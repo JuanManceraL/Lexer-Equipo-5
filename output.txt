@@ -1,0 +1,13 @@
+Selecciona el modo de entrada:
+1. Introducir código manualmente
+2. Leer desde un archivo
+Ingresa el número de la opción (1 o 2): 2
+Ingresa la ruta del archivo (ej. archivo.c o archivo.txt): C:\Users\juanm\Documents\Escuela\7mo semestre\Compiladores\Lexer Equipo 5\ejemplo.c
+Keyword: int printf return
+Identifier: h main stdio  
+Punctuation: ( ) . ; { }  
+Operator: < >
+Constant: 0
+Literal: "Hola, Mundo!\n" 
+Directive: #include       
+Conteo de tokens:  20   
